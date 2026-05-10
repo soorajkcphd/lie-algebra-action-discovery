@@ -1,0 +1,10 @@
+# Requirements for:
+# Discovering Lie-Algebraic Action Spaces for Sample-Efficient Reinforcement Learning
+# ICECCME 2026
+#
+# Tested on Python 3.10, NVIDIA GeForce RTX 5060 Ti, CUDA 13.2
+
+torch>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
